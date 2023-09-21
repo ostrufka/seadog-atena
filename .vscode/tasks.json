@@ -2,8 +2,8 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build Seadog Gaia 🐶",
-            "command": "./seadog-gaia",
+            "label": "Build Seadog Atena 🐕",
+            "command": "./seadog-atena",
             "type": "shell",
             "options": {
                 "shell": {

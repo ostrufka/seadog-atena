@@ -24,9 +24,9 @@ else
 	export jobs=${JOBS}
 fi
 
-# append the gaia path
-defconfig="../../../../seadog-gaia/kernel/$defconfig"
-artifacts="../seadog-gaia/kernel/$artifacts"
+# append the atena path
+defconfig="../../../../seadog-atena/kernel/$defconfig"
+artifacts="../seadog-atena/kernel/$artifacts"
 
 # create the artifacts folder
 mkdir -p $artifacts

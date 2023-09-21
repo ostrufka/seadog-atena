@@ -193,7 +193,7 @@ function doModulesInstall () {
     export CDCD=1
 
     # go to Linux source folder
-    artifacts="../seadog-gaia/kernel/$artifacts"
+    artifacts="../seadog-atena/kernel/$artifacts"
     cd $kernel_src
 
     # install modules .ko

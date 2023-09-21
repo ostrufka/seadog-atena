@@ -94,7 +94,7 @@ else
 
     echo ""
     echo "How to use example:"
-    echo -e "\t SEADOG_DEV='TEST' JOBS=8 ./seadog-gaia SEADOG_BOARD CLEAN UBOOT_BRANCH KERNEL_BRANCH"
+    echo -e "\t SEADOG_DEV='TEST' JOBS=8 ./seadog-atena SEADOG_BOARD CLEAN UBOOT_BRANCH KERNEL_BRANCH"
     echo ""
 
 
